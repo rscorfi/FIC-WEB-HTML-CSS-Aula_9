@@ -1,0 +1,28 @@
+p{
+    color: red;
+    /* comentário */
+    text-align: center;
+}
+
+p, h1{
+    font-size: 20px;
+}
+
+#identificador{
+    color: red;
+    text-align: center;
+}
+
+.centro{
+    color: red;
+    text-align: center;
+}
+
+*{
+    color: blue;
+    text-align: center;
+}
+
+p b{
+    background-color: green;
+}
